@@ -1,0 +1,40 @@
+feature,pair,test_used,statistic,p_raw,cohens_d,p_corrected,significant
+mean_L,fresh vs not fresh,Paired t-test,2.8276,0.0254924769618177,0.9997,0.0509849539236354,No
+mean_L,fresh vs spoiled,Paired t-test,3.8837,0.006024511159008228,1.3731,0.018073533477024686,Yes
+mean_L,not fresh vs spoiled,Paired t-test,1.4817,0.18197970470799518,0.5239,0.18197970470799518,No
+mean_b,fresh vs not fresh,Paired t-test,0.647,0.5382906772831577,0.2287,0.5382906772831577,No
+mean_b,fresh vs spoiled,Paired t-test,2.1374,0.06990042737967067,0.7557,0.13980085475934134,No
+mean_b,not fresh vs spoiled,Paired t-test,3.4346,0.010916164964017268,1.2143,0.032748494892051803,Yes
+std_L,fresh vs not fresh,Paired t-test,-2.4135,0.046534725697013835,-0.8533,0.046534725697013835,Yes
+std_L,fresh vs spoiled,Paired t-test,-8.5646,5.882282322781165e-05,-3.0281,0.00017646846968343496,Yes
+std_L,not fresh vs spoiled,Paired t-test,-2.9246,0.022193917778423253,-1.034,0.04438783555684651,Yes
+mean_R,fresh vs not fresh,Paired t-test,2.9947,0.020093375920432206,1.0588,0.020093375920432206,Yes
+mean_R,fresh vs spoiled,Paired t-test,5.5461,0.0008634423936749876,1.9608,0.002590327181024963,Yes
+mean_R,not fresh vs spoiled,Paired t-test,3.8921,0.005959464928058453,1.3761,0.011918929856116907,Yes
+mean_G,fresh vs not fresh,Paired t-test,2.6815,0.03147215544492856,0.948,0.09441646633478568,No
+mean_G,fresh vs spoiled,Paired t-test,2.3237,0.05310649437611266,0.8215,0.10621298875222532,No
+mean_G,not fresh vs spoiled,Paired t-test,0.2877,0.7819324611278673,0.1017,0.7819324611278673,No
+mean_V,fresh vs not fresh,Paired t-test,2.9944,0.020101237982859323,1.0587,0.020101237982859323,Yes
+mean_V,fresh vs spoiled,Paired t-test,5.5472,0.0008624988234842737,1.9612,0.002587496470452821,Yes
+mean_V,not fresh vs spoiled,Paired t-test,3.8821,0.006036792912977952,1.3725,0.012073585825955904,Yes
+glcm_contrast,fresh vs not fresh,Wilcoxon,15.0,0.7421875,0.264,0.7421875,No
+glcm_contrast,fresh vs spoiled,Paired t-test,-1.666,0.13964822289743495,-0.589,0.2792964457948699,No
+glcm_contrast,not fresh vs spoiled,Paired t-test,-3.32,0.012765218166560942,-1.1738,0.03829565449968283,Yes
+glcm_homogeneity,fresh vs not fresh,Paired t-test,-2.8337,0.025272900723509448,-1.0019,0.050545801447018895,No
+glcm_homogeneity,fresh vs spoiled,Paired t-test,-4.0032,0.005169013892777436,-1.4153,0.01550704167833231,Yes
+glcm_homogeneity,not fresh vs spoiled,Paired t-test,-2.2004,0.06369144976224861,-0.778,0.06369144976224861,No
+glcm_ASM,fresh vs not fresh,Paired t-test,-0.2494,0.8102238699572125,-0.0882,0.8102238699572125,No
+glcm_ASM,fresh vs spoiled,Paired t-test,-2.515,0.04010411827774756,-0.8892,0.08020823655549512,No
+glcm_ASM,not fresh vs spoiled,Paired t-test,-2.8161,0.02591797336241171,-0.9956,0.07775392008723513,No
+glcm_energy,fresh vs not fresh,Paired t-test,-0.7072,0.5022801723950026,-0.25,0.5022801723950026,No
+glcm_energy,fresh vs spoiled,Paired t-test,-3.9962,0.005215223500460372,-1.4129,0.015645670501381114,Yes
+glcm_energy,not fresh vs spoiled,Paired t-test,-3.9038,0.005870060048627518,-1.3802,0.015645670501381114,Yes
+glcm_correlation,fresh vs not fresh,Paired t-test,-3.1813,0.015462939113431488,-1.1248,0.046388817340294465,Yes
+glcm_correlation,fresh vs spoiled,Paired t-test,-2.6709,0.03195978648808921,-0.9443,0.06391957297617842,No
+glcm_correlation,not fresh vs spoiled,Paired t-test,-0.5025,0.6307304719682678,-0.1777,0.6307304719682678,No
+entropy,fresh vs not fresh,Paired t-test,0.649,0.5370302429883334,0.2295,0.5370302429883334,No
+entropy,fresh vs spoiled,Paired t-test,3.2097,0.01486417780714379,1.1348,0.04459253342143137,Yes
+entropy,not fresh vs spoiled,Paired t-test,2.9017,0.022931090095173436,1.0259,0.04586218019034687,Yes
+variance,fresh vs not fresh,Paired t-test,-2.0962,0.07429119510620949,-0.7411,0.14134676463843424,No
+variance,fresh vs spoiled,Paired t-test,-6.1047,0.0004887971915591896,-2.1583,0.001466391574677569,Yes
+variance,not fresh vs spoiled,Paired t-test,-2.13,0.07067338231921712,-0.7531,0.14134676463843424,No

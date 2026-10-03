@@ -1,0 +1,10 @@
+fold_name,seed,label,predicted_count
+all,42,fresh,219
+all,42,not fresh,235
+all,42,spoiled,221
+all,123,fresh,228
+all,123,not fresh,233
+all,123,spoiled,214
+all,2026,fresh,228
+all,2026,not fresh,231
+all,2026,spoiled,216

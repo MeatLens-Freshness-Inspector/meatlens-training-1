@@ -1,0 +1,7 @@
+timestamp,fold_name,seed,model_input_mode,image_crop_mode,error
+2026-09-18T22:47:55.635639,all,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-18T22:48:17.608333,all,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((6080, 224, 224, 3), dtype('float32'))"
+2026-09-18T22:48:39.227446,all,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((6080, 224, 224, 3), dtype('float32'))"
+2026-09-18T23:07:03.517413,all,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-18T23:09:55.438031,all,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-18T23:13:16.720604,all,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()

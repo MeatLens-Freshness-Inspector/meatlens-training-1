@@ -1,0 +1,38 @@
+timestamp,fold_name,seed,model_input_mode,image_crop_mode,error
+2026-09-19T20:02:31.300107,fold1,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:03:43.402159,fold1,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:04:53.464670,fold1,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:05:47.161900,fold2,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:06:42.904645,fold2,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:07:37.227357,fold2,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:08:17.477298,fold3,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:08:58.238323,fold3,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:09:38.354245,fold3,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:10:11.410987,fold4,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:10:43.439111,fold4,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:11:03.775817,fold4,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5275, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:11:35.007733,fold5,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:11:54.205300,fold5,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5232, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:12:15.238292,fold5,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((600, 224, 224, 3), dtype('float32'))"
+2026-09-19T20:12:33.793600,fold6,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5233, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:13:06.963251,fold6,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:13:38.977166,fold6,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:13:59.404497,fold7,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5277, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:14:18.813064,fold7,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5277, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:14:39.173113,fold7,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5277, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:15:10.479926,fold8,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:15:42.127657,fold8,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-09-19T20:16:14.551042,fold8,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:17:27.390974,fold9,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:18:41.699081,fold9,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:19:55.906724,fold9,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:21:09.615816,fold10,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:22:24.268456,fold10,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:23:46.246757,fold10,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:25:03.427921,fold11,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:25:23.372975,fold11,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5406, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:25:42.467610,fold11,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5406, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:26:49.641939,fold12,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T20:27:07.427302,fold12,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,"MemoryError((5276, 224, 224, 3), dtype('uint8'))"
+2026-09-19T20:28:15.165504,fold12,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,ResourceExhaustedError()
+2026-09-19T22:15:54.754579,fold1,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()

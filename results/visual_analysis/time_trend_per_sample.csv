@@ -1,0 +1,21 @@
+feature,mean_slope,std_slope,n_samples,n_significant,direction
+mean_L,-0.008713,0.006639,8,7,"Mixed (1 up, 7 down)"
+mean_a,-0.003017,0.004327,8,8,"Mixed (2 up, 6 down)"
+mean_b,-0.001727,0.001768,8,8,"Mixed (1 up, 7 down)"
+std_L,0.006583,0.003547,8,8,All increasing
+std_a,-5.3e-05,0.001578,8,7,"Mixed (4 up, 4 down)"
+std_b,1.8e-05,0.001012,8,7,"Mixed (3 up, 5 down)"
+mean_R,-0.014011,0.008822,8,8,All decreasing
+mean_G,-0.00564,0.007423,8,7,"Mixed (2 up, 6 down)"
+mean_B,-0.005157,0.008235,8,7,"Mixed (3 up, 5 down)"
+mean_H,0.00025,0.016105,8,8,"Mixed (4 up, 4 down)"
+mean_S,-0.006365,0.0137,8,8,"Mixed (2 up, 6 down)"
+mean_V,-0.014002,0.008818,8,8,All decreasing
+glcm_contrast,0.008516,0.009241,8,8,"Mixed (6 up, 2 down)"
+glcm_dissimilarity,-9e-06,0.000355,8,8,"Mixed (4 up, 4 down)"
+glcm_homogeneity,5e-05,4.2e-05,8,7,All increasing
+glcm_ASM,4.5e-05,4.8e-05,8,8,"Mixed (7 up, 1 down)"
+glcm_energy,8.5e-05,6.2e-05,8,8,"Mixed (7 up, 1 down)"
+glcm_correlation,6e-06,7e-06,8,8,"Mixed (7 up, 1 down)"
+entropy,-0.000374,0.000316,8,8,"Mixed (1 up, 7 down)"
+variance,0.303506,0.209275,8,7,All increasing

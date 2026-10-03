@@ -1,0 +1,21 @@
+feature,test_used,statistic,p_value,effect_size_metric,effect_size,sphericity_p,significant
+mean_L,RM-ANOVA,9.4248,0.0025537981738470382,partial_eta_sq,0.1797,0.7589,Yes
+mean_a,RM-ANOVA (GG-corrected),3.6634,0.08761521077539623,partial_eta_sq,0.0619,0.0241,No
+mean_b,RM-ANOVA,4.3406,0.034137327266309095,partial_eta_sq,0.1463,0.0712,Yes
+std_L,Friedman,12.25,0.002187491118182885,Kendall_W,0.7656,,Yes
+std_a,RM-ANOVA (GG-corrected),0.2262,0.693300465287572,partial_eta_sq,0.0021,0.0462,No
+std_b,RM-ANOVA,0.0838,0.9200405656877868,partial_eta_sq,0.0031,0.1376,No
+mean_R,RM-ANOVA,19.2431,9.606897122293968e-05,partial_eta_sq,0.3167,0.5526,Yes
+mean_G,RM-ANOVA,4.5599,0.029853550589158135,partial_eta_sq,0.0908,0.6163,Yes
+mean_B,RM-ANOVA,2.7658,0.09721478597813295,partial_eta_sq,0.0768,0.4785,No
+mean_H,Friedman,2.25,0.3246524673583498,Kendall_W,0.1406,,No
+mean_S,RM-ANOVA,1.8442,0.19456693608296488,partial_eta_sq,0.0307,0.27,No
+mean_V,RM-ANOVA,19.2236,9.656950426712754e-05,partial_eta_sq,0.3165,0.5562,Yes
+glcm_contrast,RM-ANOVA,4.1811,0.03769585617002441,partial_eta_sq,0.0523,0.1765,Yes
+glcm_dissimilarity,RM-ANOVA,1.9691,0.1763785463413296,partial_eta_sq,0.021,0.3982,No
+glcm_homogeneity,RM-ANOVA,10.4744,0.001655267029337721,partial_eta_sq,0.0929,0.6915,Yes
+glcm_ASM,Friedman,9.25,0.00980365503582183,Kendall_W,0.5781,,Yes
+glcm_energy,RM-ANOVA,11.718,0.0010229918035621205,partial_eta_sq,0.1516,0.7909,Yes
+glcm_correlation,RM-ANOVA,6.2964,0.011208656934956854,partial_eta_sq,0.2965,0.4302,Yes
+entropy,RM-ANOVA,7.1564,0.007227902557974259,partial_eta_sq,0.0883,0.8094,Yes
+variance,Friedman,12.25,0.002187491118182885,Kendall_W,0.7656,,Yes

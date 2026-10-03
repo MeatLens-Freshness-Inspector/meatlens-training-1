@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260919_010951",
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_12fold_fulldata_final_cnn_only\\models\\meatlens_best_fulldata_final_cnn_only_mobilenetv3small.h5",
+  "metadata_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_12fold_fulldata_final_cnn_only\\models\\meatlens_best_fulldata_final_cnn_only_mobilenetv3small_metadata.json",
+  "source_folder": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_12fold_fulldata_final_cnn_only\\inference_final\\uploaded_zips\\zip_20260919_010951\\extracted",
+  "run_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_12fold_fulldata_final_cnn_only\\inference_final\\final_12samples_fulldata_inference_20260919_010951",
+  "total_images_found": 1,
+  "successful_predictions": 1,
+  "errors": 0,
+  "background_mode": "gray",
+  "deployment_note": ""
+}

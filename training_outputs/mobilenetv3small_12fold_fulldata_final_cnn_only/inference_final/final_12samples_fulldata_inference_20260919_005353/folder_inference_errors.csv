@@ -1,0 +1,2 @@
+image_path,error
+e:\Thesis Code\training_outputs\mobilenetv3small_12fold_fulldata_final_cnn_only\inference_final\uploaded_zips\zip_20260919_005352\extracted\New folder\Screenshot 2026-09-19 005031.png,"AttributeError(""module 'mobilenetv3small_12fold_fulldata_final_cnn_only_lib' has no attribute 'transition_label_and_recommendation'"")"
